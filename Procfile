@@ -1,0 +1,1 @@
+woker: python src/main.py
